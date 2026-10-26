@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "super-productivity": {
+      "command": "/home/felix/.local/share/super-productivity-mcp/.venv/bin/python",
+      "args": ["/home/felix/.local/share/super-productivity-mcp/mcp_server.py"],
+      "description": "Read and manage Super Productivity tasks, projects, and tags via its local plugin bridge.",
+      "exposure": "direct"
+    }
+  }
+}

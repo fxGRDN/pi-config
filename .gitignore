@@ -1,0 +1,8 @@
+auth.json
+*.sqlite
+sessions/
+node_modules/
+*.log
+antigravity-accounts.json
+models.json
+pi-blackhole/*-pending.*
